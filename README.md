@@ -68,4 +68,4 @@ Output:
 
 `app/build/outputs/apk/debug/app-debug.apk`
 
-The project does not require GitHub Actions. WyDev can be used to edit the repository from your phone, while Termux performs the local Gradle build.
+The project does not require GitHub Actions. Any phone-friendly code editor can be used to edit the repository, while Termux performs the local Gradle build.

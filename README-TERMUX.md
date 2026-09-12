@@ -68,13 +68,10 @@ No GitHub Actions/workflow is required to build it.
 
 ## Phone-only workflow
 
-GitHub = source storage
-WyDev = edit repository files
+GitHub (or any Git host) = source storage
+Any code editor (e.g. Acode, VS Code via a remote/SSH setup) = edit repository files
 Termux = build APK
 Android = test APK
-
-WyDev:
-https://wydev.vercel.app
 
 ## Google Play Billing
 
